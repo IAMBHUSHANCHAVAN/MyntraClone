@@ -7,9 +7,13 @@ import Homeandliving from './component/Homeandliving';
 function App() {
   return (
     <div className="App">
-      <Home/>
+      {/* <Home/> */}
       {/* <Getproductpage/> */}
       {/* <Homeandliving/> */}
+
+
+     
+
     </div>
   );
 }
